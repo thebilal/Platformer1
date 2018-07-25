@@ -1,1 +1,3 @@
-# platformer1
+# Platformer1
+Improved version of Shooter game
+
